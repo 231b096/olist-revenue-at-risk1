@@ -1,0 +1,14 @@
+metric,value
+at_risk_customers,13779.0
+at_risk_historical_revenue,4241326.47
+at_risk_share_of_revenue,0.27505763306027753
+late_first_orders,5186.0
+late_rate_first_orders,0.07778844423111538
+avg_review_on_time,4.263091147111766
+avg_review_late,2.1551145339652447
+repeat_rate_on_time,0.037620767053771834
+repeat_rate_late,0.028152718858465098
+value_per_returning_customer,163.6933737950732
+extra_returning_customers_if_no_late,49.10129794086073
+recoverable_revenue_per_year_full_fix,5044.602858999302
+recoverable_revenue_per_year_half_fix,2522.301429499651

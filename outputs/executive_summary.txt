@@ -1,0 +1,28 @@
+EXECUTIVE SUMMARY - Revenue at Risk from Poor First-Order Experience
+
+PROBLEM
+Most customers buy once and never return. We analysed 66,670 first orders to find out why.
+
+KEY FINDINGS
+1. 7.8% of first orders arrived after the promised date.
+2. Late orders average a 2.16-star review vs 4.26 for on-time orders.
+3. Customers whose first order was late come back 25% less often
+   (2.82% vs 3.76% repeat rate).
+4. 13,779 high-value customers have gone quiet ("At Risk" segment). They account for
+   R$4,241,326 (27.5%) of historical revenue.
+5. Late deliveries are most common in: AL, MA, CE.
+
+OPPORTUNITY
+- Eliminating late first deliveries is worth about R$5,045 per year in repeat revenue.
+- Cutting them by half is worth about R$2,522 per year.
+
+RECOMMENDATIONS
+1. Logistics: add delivery-time buffers / better carriers for AL, MA, CE.
+2. Service recovery: when an order is late, automatically send an apology + voucher before the
+   customer leaves a review.
+3. Win-back: target the 13,779 At Risk customers with a personalised campaign.
+4. Track monthly: late delivery rate, first-order review score, 90-day repeat rate.
+
+CAVEAT
+This is correlation, not proof of causation. An A/B test of the voucher in recommendation 2
+would confirm the effect before scaling.

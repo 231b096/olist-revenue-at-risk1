@@ -1,0 +1,19 @@
+# Environment and system files
+.venv/
+__pycache__/
+.DS_Store
+
+# Data: too large for GitHub, and anyone can download it from Kaggle
+data/raw/*.csv
+data/processed/
+dashboard/*.csv
+outputs/first_orders.csv
+outputs/rfm_customers.csv
+*.hyper
+
+# Tableau files: the dashboard lives on Tableau Public instead
+dashboard/*.twb
+dashboard/.~*
+
+# Personal interview-prep notes
+GUIDE.md
